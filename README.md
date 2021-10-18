@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+# :wave: The Basics of GitHub [ MODİFİED BY KEREM ETGÜ 150210701 ]
 
 ## 🤓 Course overview and learning outcomes 
 
